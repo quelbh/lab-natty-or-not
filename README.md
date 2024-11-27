@@ -20,7 +20,7 @@ Finalmente, os audios foram inseridos no Descript e o audio exportado para a web
 (https://share.descript.com/view/VdU85mkBk2M)
 
 ## 💭 Reflexão (Opcional)
-Foi muito interessante colocar em prática. Com pouco esforço, podemos obter um resultado prático.
+Foi muito interessante colocar em prática. Com pouco esforço, podemos obter um resultado satisfatório.
 Nos casos reais, vale a pena investir mais tempo na geração dos resultados, com um roteiro mais minuncioso, técnico.
 Outras opções do Elevenlabs também podem ser exploradas, para tornar os audios mais "reais" ou próximos de um bate-papo de verdade.
 ```
